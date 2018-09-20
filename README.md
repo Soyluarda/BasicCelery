@@ -10,7 +10,7 @@ on terminal, we can use it with for-statement and see how celery works.
 ### Prerequisites
 
 We need to install celery and rabbitmq-server 
-```
+
 ### Process
 
 Just run rabbitmq-server and celery
